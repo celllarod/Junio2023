@@ -22,6 +22,7 @@ public class FirstDayAtSchool {
 
 	public void prepareMyBag() {
 		schoolbag.put("Pens", 1);
+		schoolbag.put("Notebooks", 1);
 		
 	}
 
